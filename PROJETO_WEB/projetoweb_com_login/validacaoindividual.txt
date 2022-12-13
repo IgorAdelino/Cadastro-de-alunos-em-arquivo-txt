@@ -1,0 +1,9 @@
+if(empty($dados['matricula'])){
+            echo "<p>Preencha todos os dados</p>";
+        }
+        else if(empty($dados['n1'])){
+            echo "<p>Preencha todos os dados</p>";
+        }
+        else if(empty($dados['n2'])){
+            echo "<p>Preencha todos os dados</p>";
+        }
